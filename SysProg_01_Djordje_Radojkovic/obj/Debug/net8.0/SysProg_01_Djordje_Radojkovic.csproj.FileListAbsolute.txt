@@ -1,0 +1,14 @@
+D:\C85\elfak\SysProg\Proj_1\SysProg_01_Djordje_Radojkovic\SysProg_01_Djordje_Radojkovic\bin\Debug\net8.0\SysProg_01_Djordje_Radojkovic.exe
+D:\C85\elfak\SysProg\Proj_1\SysProg_01_Djordje_Radojkovic\SysProg_01_Djordje_Radojkovic\bin\Debug\net8.0\SysProg_01_Djordje_Radojkovic.deps.json
+D:\C85\elfak\SysProg\Proj_1\SysProg_01_Djordje_Radojkovic\SysProg_01_Djordje_Radojkovic\bin\Debug\net8.0\SysProg_01_Djordje_Radojkovic.runtimeconfig.json
+D:\C85\elfak\SysProg\Proj_1\SysProg_01_Djordje_Radojkovic\SysProg_01_Djordje_Radojkovic\bin\Debug\net8.0\SysProg_01_Djordje_Radojkovic.dll
+D:\C85\elfak\SysProg\Proj_1\SysProg_01_Djordje_Radojkovic\SysProg_01_Djordje_Radojkovic\bin\Debug\net8.0\SysProg_01_Djordje_Radojkovic.pdb
+D:\C85\elfak\SysProg\Proj_1\SysProg_01_Djordje_Radojkovic\SysProg_01_Djordje_Radojkovic\obj\Debug\net8.0\SysProg_01_Djordje_Radojkovic.GeneratedMSBuildEditorConfig.editorconfig
+D:\C85\elfak\SysProg\Proj_1\SysProg_01_Djordje_Radojkovic\SysProg_01_Djordje_Radojkovic\obj\Debug\net8.0\SysProg_01_Djordje_Radojkovic.AssemblyInfoInputs.cache
+D:\C85\elfak\SysProg\Proj_1\SysProg_01_Djordje_Radojkovic\SysProg_01_Djordje_Radojkovic\obj\Debug\net8.0\SysProg_01_Djordje_Radojkovic.AssemblyInfo.cs
+D:\C85\elfak\SysProg\Proj_1\SysProg_01_Djordje_Radojkovic\SysProg_01_Djordje_Radojkovic\obj\Debug\net8.0\SysProg_01_Djordje_Radojkovic.csproj.CoreCompileInputs.cache
+D:\C85\elfak\SysProg\Proj_1\SysProg_01_Djordje_Radojkovic\SysProg_01_Djordje_Radojkovic\obj\Debug\net8.0\SysProg_01_Djordje_Radojkovic.dll
+D:\C85\elfak\SysProg\Proj_1\SysProg_01_Djordje_Radojkovic\SysProg_01_Djordje_Radojkovic\obj\Debug\net8.0\refint\SysProg_01_Djordje_Radojkovic.dll
+D:\C85\elfak\SysProg\Proj_1\SysProg_01_Djordje_Radojkovic\SysProg_01_Djordje_Radojkovic\obj\Debug\net8.0\SysProg_01_Djordje_Radojkovic.pdb
+D:\C85\elfak\SysProg\Proj_1\SysProg_01_Djordje_Radojkovic\SysProg_01_Djordje_Radojkovic\obj\Debug\net8.0\SysProg_01_Djordje_Radojkovic.genruntimeconfig.cache
+D:\C85\elfak\SysProg\Proj_1\SysProg_01_Djordje_Radojkovic\SysProg_01_Djordje_Radojkovic\obj\Debug\net8.0\ref\SysProg_01_Djordje_Radojkovic.dll
